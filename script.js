@@ -8,7 +8,7 @@ document.getElementById('contactForm').addEventListener('submit', function (e) {
     const correo = document.getElementById('correo').value.trim();
     const mensaje = document.getElementById('mensaje').value.trim();
 
-    const correoRegex = /^.@.\.com$/i;
+    const correoRegex = /^.*@.*\.com$/i;
 
     // Validar que el nombre tenga al menos 2 letras
     if (!nombre || nombre.length < 2) {
@@ -74,9 +74,9 @@ document.getElementById('contactForm').addEventListener('submit', function (e) {
     Swal.fire({
         icon: 'success',
         title: 'Mensaje enviado',
-        html: <strong>${nombre}</strong><br>Gracias por contactarte. ¡Te responderé pronto!,
-    confirmButtonColor: '#089fe0'
-  });
+        html: `<strong>${nombre}</strong><br>Gracias por contactarte. ¡Te responderé pronto!`,
+        confirmButtonColor: '#089fe0'
+    });
 
-  this.reset();
+    this.reset();
 });
