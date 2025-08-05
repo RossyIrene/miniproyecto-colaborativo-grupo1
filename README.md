@@ -49,7 +49,7 @@
 [NUESTRO ENLACE WEB](https://rossyirene.github.io/miniproyecto-colaborativo-grupo1/)
 
 ## ENLACE A TRELLO
-[Tablero- grupo1](https://rossyirene.github.io/miniproyecto-colaborativo-grupo1/)
+[TABLERO-GRUPO1](https://trello.com/b/Jqy0SMgD/mini-proyecto-modelo-grupo-1)
 
 
 
