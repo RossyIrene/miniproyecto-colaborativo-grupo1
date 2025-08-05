@@ -2,23 +2,29 @@
 <html lang="es">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario de Contacto</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario de Contacto Elegante</title>
+    <link rel="stylesheet" href="style.css" />
     <script src="https://kit.fontawesome.com/812c8ee19a.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
+
 <body>
-
-    <form class="form">
-        <div class="form-container">
-        <h2 class="form-title"><i class="fa-solid fa-user"></i> Contáctame</h2>
-        <input type="text" class="form-input" placeholder="Nombre" required>
-        <input type="email" class="form-input" placeholder="Correo" required>
-        <textarea class="form-input form-textarea" placeholder="Mensaje"></textarea>
-        <input type="submit" value="Enviar" class="submit-button">
-    </form>
-
+    <div class="container">
+        <form class="form" id="contactForm">
+            <div class="form-container">
+                <h2 class="form-title"><i class="fa-solid fa-user"></i> Contáctame</h2>
+                <input type="text" id="nombre" class="form-input" placeholder="Nombre" id="nombre" required>
+                <input type="email" id="correo" class="form-input" placeholder="Correo electrónico" id="correo"
+                    required>
+                <textarea id="mensaje" class="form-input form-textarea" placeholder="Escribe tu mensaje" id="mensaje"
+                    required></textarea>
+                <button type="submit" class="submit-button"><i class="fa-solid fa-paper-plane"></i> Enviar</button>
+            </div>
+        </form>
+    </div>
     <script src="script.js"></script>
 </body>
+
 </html>

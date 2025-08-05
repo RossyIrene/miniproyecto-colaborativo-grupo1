@@ -8,13 +8,13 @@
 
 ## 👥 Roles Scrum
 
-| Rol           | Nombre del integrante  | Función principal                                |
+|  Rol           | Nombre del integrante  | Función principal                                |
 |---------------|------------------------|--------------------------------------------------|
 | Scrum Master  | Rossy Quispe           | Coordina el trabajo, facilita reuniones          |
-| Product Owner |                        | Define el objetivo, prioriza tareas              |
-| Developer 1   | Eduar de la cruz       | Crea el diseño en HTML + CSS                     |
-| Developer 2   | Luis retto             | Programa validaciones con JS                     |
-| Developer 3   | Rossy Quispe           | Conecta API simulada y arma el README            |
+| Product Owner | Luis Retto             | Define el objetivo, prioriza tareas              |
+| Developer 1   | Eduard de la cruz      | Crea el diseño en HTML + CSS                     |
+| Developer 2   | Fabbian espinoza       | Programa validaciones con JS                     |
+| Developer 3   | Fabian espinoza        | Conecta API simulada                             |
 
 ## 📋 Sprint Backlog (Trello)
 
@@ -43,7 +43,50 @@
 
 **Todo el equipo trabajará en un repositorio único, lo que permitirá centralizar los archivos del proyecto y facilitar la colaboración. Se utilizarán ramas específicas para dividir el trabajo de manera ordenada: la rama main se reservará para la versión final y estable del proyecto, mientras que las ramas diseño y validación servirán para trabajar respectivamente en la parte visual (HTML/CSS) y en la lógica del formulario (JavaScript).**
 
-**Como parte del flujo de trabajo, cada integrante deberá generar al menos dos Pull Requests (PR) que deberán ser aprobados por otro miembro del equipo antes de ser fusionados con la rama principal. Esto fomentará la revisión de código y evitará errores.**
+**Como parte del flujo de trabajo, cada integrante deberá generar al menos dos Pull Requests (PR) que deberán ser aprobados por otro miembro del equipo antes de ser fusionados con la rama principal. Esto fomentará la revisión de código y evitará errores.** 
+
+---
+
+# 📌 EVIDENCIAS DE SPRINT Y  SCRUM
+
+## SPRINT PLANNING
+**Definimos el sprint goal con ayuda de product ouwner**
+**Se armo el tablero trello**
+**Se asigno roles y tarea cada integrante**
+
+---
+
+## 📐 DAILY MEETING
+
+| Rol           | Nombre del integrante  | lo que se realizo                                |
+|---------------|------------------------|---------------------------------------------------|
+| Scrum Master  | Rossy Quispe           | cree repositorio, arme el README, Creacion de l trello y cordinacion           |
+| Product Owner | Luis Retto             | Participar en reuniones y resolver dudas de alcanse              |
+| Developer 1   | Eduard de la cruz      | creacion de la interfaz HTML aplicar estilos con css                     |
+| Developer 2   | Fabbian espinoza       | Crear el codigo javascritp y validar su funcionamiento                    |
+| Developer 3   | Fabian espinoza        | Conecta API simulada                             |
+
+--- 
+
+## ⚡ SPRINT REVIEW
+
+**Prueba demo**
+**aprobacion por parte de product owner**
+
+---
+
+## 🔔 SPRINT RETROSPECT
+
+**Mejorar nuestra organizacion y una buena comunicacion como equipo**
+**para el siguiente proyecto mejorar la aplicacion la metodologia scrum**
+
+---
+
+## 📢 ENLACE A PAGINA WEB
+[NUESTRO ENLACE WEB](https://rossyirene.github.io/miniproyecto-colaborativo-grupo1/)
+
+## 🔑 ENLACE A TRELLO
+[TABLERO-GRUPO1](https://trello.com/b/Jqy0SMgD/mini-proyecto-modelo-grupo-1)
 
 
 
