@@ -45,6 +45,7 @@
 
 **Como parte del flujo de trabajo, cada integrante deberá generar al menos dos Pull Requests (PR) que deberán ser aprobados por otro miembro del equipo antes de ser fusionados con la rama principal. Esto fomentará la revisión de código y evitará errores.**
 
+
 ## ENLACE A PAGINA WEB
 [NUESTRO ENLACE WEB](https://rossyirene.github.io/miniproyecto-colaborativo-grupo1/)
 
