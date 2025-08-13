@@ -6,7 +6,7 @@
 
 ### Diseñar una página web con un formulario interactivo donde los usuarios puedan ingresar su nombre, correo electrónico y un mensaje. Al enviarlo, el sitio debe mostrar una notificación o mensaje que confirme que su información fue recibida correctamente.
 
-## 👥 Roles Scrum
+## 👥 Roles Scrums
 
 |  Rol           | Nombre del integrante  | Función principal                                |
 |---------------|------------------------|--------------------------------------------------|
